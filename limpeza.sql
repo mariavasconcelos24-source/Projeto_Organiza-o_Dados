@@ -1,0 +1,1 @@
+insert into "clientes" ("cliente_id", "nome", "email", "data_registo") overriding system value values (2, 'maria', 'maria@gmail.com', '2026-08-04');
